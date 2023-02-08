@@ -1,4 +1,4 @@
-def adicionarUsuário ():
+def adicionarUsuário (nome, email, senha):
     print('Usuario adicionado')
 
 adicionarUsuário()
